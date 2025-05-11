@@ -1,7 +1,3 @@
-Here’s a basic structure for your `README.md` file. It covers the purpose of the project, setup instructions, and details for running the Flask API as well as the Spring Boot component.
-
----
-
 # Mobile Price Classification System
 
 This project involves building a **Devices Price Classification System** using **Python** and **Spring Boot**. It provides a machine learning model to predict device price ranges based on device specifications and a RESTful API to interface with the model.
